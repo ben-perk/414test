@@ -1,2 +1,11 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>414test</title>
+        <meta name="author" content="Benjamin Posy">
+    </head>
+    <body>
+        <h1>Hello World</h1>
+    </body>
+</html>
